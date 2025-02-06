@@ -4,14 +4,22 @@ This repository documents my journey through the CSS Layouts Course, where I tra
 
 ## Key Takeaways from the Course:
 ① Understanding Legacy Techniques
+
  - Explored the use of floats for layouts and the challenges they presented.
+
 ② Modern CSS Layouts
- - Flexbox: Mastered creating flexible, one-dimensional layouts with horizontal and vertical alignment.
- - CSS Grid: Learned to build powerful, two-dimensional grid-based designs for structured layouts.
+
+ - Flexbox: Mastered creating flexible, one-dimensional layouts with horizontal and vertical alignment.
+ 
+ - CSS Grid: Learned to build powerful, two-dimensional grid-based designs for structured layouts.
+
 ③ Positioning Techniques
- - Gained hands-on experience with relative, absolute, fixed, and sticky positioning to arrange components dynamically.
+
+ - Gained hands-on experience with relative, absolute, fixed, and sticky positioning to arrange components dynamically.
+
 ④ Responsive Design
- - Applied modern methods to ensure layouts adapt seamlessly across devices and screen sizes.
+
+ - Applied modern methods to ensure layouts adapt seamlessly across devices and screen sizes.
 
 ## Course Overview:
 Modules:
