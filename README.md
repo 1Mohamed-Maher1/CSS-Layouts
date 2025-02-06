@@ -22,7 +22,7 @@ This repository documents my journey through the CSS Layouts Course, where I tra
  - Applied modern methods to ensure layouts adapt seamlessly across devices and screen sizes.
 
 ## Course Overview:
-Modules:
+⁃ Modules:
 - The 3 Ways of Building Layouts
 - Floats, Flexbox, and Grid Techniques
 - Final Project Submission
