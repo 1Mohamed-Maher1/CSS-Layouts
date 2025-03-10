@@ -147,7 +147,8 @@ a:active {
 .separator {
   margin-right: 30px;
 }
-/* LVHA */
+
+/* LTR */
 
 .post-img {
   width: 100%;
@@ -275,12 +276,51 @@ h2::after {
   float: left;
 }
 
-/* [dir="rtl"] .related {
+[dir="rtl"] .related {
   margin-right: 0;
-} */
+}
+
+/* Floats LTR */
+.author {
+  float: right;
+  margin-right: 10px;
+}
+
+.author-img {
+  float: right;
+}
+
+h1 {
+  float: right;
+}
+
+.nav-content {
+  float: left;
+}
+
+.main-nav {
+  float: right;
+}
+
+.language-nav {
+  float: left;
+  margin-right: 40px;
+}
+
+article {
+  float: right;
+}
+
+aside {
+  float: left;
+}
+
+.related {
+  margin-right: 0;
+}
 
 /* Floats */
-/* .author {
+.author {
   float: left;
   margin-left: 10px;
   margin-top: 20px;
@@ -322,9 +362,9 @@ article {
 aside {
   position: sticky;
   top: 20px;
-  width: 300px;
+  width: 350px;
   float: right;
-  padding: 50px 40px;
+  padding: 50px 30px;
 }
 
 footer {
@@ -336,13 +376,14 @@ footer {
   margin-left: 0;
 }
 
-h4 {
+/* h4 {
   margin-bottom: 30px;
 } */
 
 /* Flexbox Layout */
 .row {
   display: flex;
+  align-items: flex-start;
   gap: 75px;
 }
 

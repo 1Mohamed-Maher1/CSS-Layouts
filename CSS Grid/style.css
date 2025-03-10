@@ -143,6 +143,7 @@ a:active {
 .separator {
   margin-right: 30px;
 }
+
 /* LVHA */
 
 .post-img {
@@ -366,6 +367,8 @@ h4 {
 
 aside {
   flex: 0 0 350px;
+  position: sticky;
+  top: 20px;
 }
 
 .related {
@@ -401,7 +404,7 @@ footer {
 /* CSS Grid */
 .container {
   display: grid;
-  grid-template-columns: 1fr 300px;
+  grid-template-columns: 1fr 350px;
   align-items: start;
   column-gap: 75px;
   row-gap: 60px;

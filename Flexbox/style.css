@@ -147,6 +147,7 @@ a:active {
 .separator {
   margin-right: 30px;
 }
+
 /* LVHA */
 
 .post-img {
@@ -338,11 +339,14 @@ footer {
 
 h4 {
   margin-bottom: 30px;
-} */
+}
+
+*/
 
 /* Flexbox Layout */
 .row {
   display: flex;
+  align-items: flex-start;
   gap: 75px;
 }
 
@@ -370,6 +374,9 @@ h4 {
 
 aside {
   flex: 0 0 350px;
+  position: sticky;
+  top: 20px;
+  width: 300px;
 }
 
 .related {
